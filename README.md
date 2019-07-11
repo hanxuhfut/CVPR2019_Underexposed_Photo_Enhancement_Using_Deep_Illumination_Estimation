@@ -4,6 +4,9 @@
 
 <sup>1</sup>The chinese university of hong kong <sup>2</sup>Sun Yat-sen University <sup>3</sup>Tencent Youtu Lab
 
+I modified the main/Makefile so that the compilation is successful. The modified "Makefile" is already in ‘main’ and I have compiled it in ‘build’
+
+
 ### Usage
 
 1. Clone the repository:
