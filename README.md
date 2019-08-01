@@ -11,7 +11,7 @@
 
 1.
 ```shell
-Python 2.7, Ubuntu 14.0, gcc-4.8, GeForce GTX TITAN X.
+Python 2.7, Ubuntu 14.0, gcc-4.8, CUDA 8.0, CUDNN 5.1, GeForce GTX TITAN X.
 ```
 2.
 ```shell
